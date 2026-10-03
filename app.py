@@ -3,7 +3,7 @@ import streamlit as st
 # Cấu hình giao diện trang
 st.set_page_config(page_title="Tính Lãi Suất Tiết Kiệm", page_icon="💰", layout="centered")
 
-st.title("💰 Ứng dụng Tính Lãi Suất Tiết Kiệm")
+st.title("💰 Ứng dụng Tính Lãi Suất Tiết Kiệm Trần Mai Diệu và Nguyễn Hoàng Hân")
 st.markdown("Nhập thông tin khoản tiết kiệm của bạn bên dưới để xem chi tiết tiền lãi và tổng số tiền nhận được.")
 
 # Form nhập liệu
